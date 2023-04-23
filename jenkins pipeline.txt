@@ -1,0 +1,59 @@
+Started by user Thadomal Shahani Engineering College
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\pipekine demo
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Addition)
+[Pipeline] script
+[Pipeline] {
+[Pipeline] echo
+30
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Multiplication)
+[Pipeline] script
+[Pipeline] {
+[Pipeline] echo
+200
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Subtraction)
+[Pipeline] script
+[Pipeline] {
+[Pipeline] echo
+-10
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Division)
+[Pipeline] script
+[Pipeline] {
+[Pipeline] echo
+0
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Python)
+[Pipeline] script
+[Pipeline] {
+[Pipeline] echo
+Hello
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
